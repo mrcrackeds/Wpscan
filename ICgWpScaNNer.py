@@ -91,7 +91,7 @@ class ICGwPScaN():
         try:
             print y + '---------------------------------------------------'
             print r + '    [' + y + '+' + r + ']' + w + ' usage: ' + g + '    [ ' \
-                  + w + ' Python ICgWpScaN.py Domain.com ' + g + ']'
+                  + w + ' Python2 ICgWpScaN.py Domain.com ' + g + ']'
         except:
             pass
 
